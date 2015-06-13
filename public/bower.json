@@ -1,0 +1,28 @@
+{
+  "name": "laravel-boilerplate",
+  "version": "0.0.1",
+  "authors": [
+    "Mitul Golakiya <me@mitul.me>"
+  ],
+  "description": "Boilerplate for Laravel5.1 Development",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "font-awesome": "~4.3.0",
+    "admin-lte": "~2.1.2",
+    "moment": "~2.10.3"
+  }
+}
