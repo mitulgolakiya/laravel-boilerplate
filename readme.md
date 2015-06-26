@@ -18,9 +18,13 @@ Installation
 -------------
 
 1. Clone the repo
-2. If you are running MAC (Windows support is in process) run following command from root directory of you repo, it will setup all the things out of the box for you.
+2. If you are running MAC run following command from root directory of you repo, it will setup all the things out of the box for you.
 
         sh init.sh
+    
+   If you are running Windows run following command from root directory of you repo, it will setup all the things out of the box for you.
+
+        init.bat
     
 3. And you are ready to go with installation & configuration of all packages.
 
